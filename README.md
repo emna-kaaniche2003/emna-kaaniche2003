@@ -1,26 +1,7 @@
 <img src="assets/banner.svg" width="100%" alt="Emna Kaaniche — Ingénierie Informatique · Full-Stack & IA" />
+<img src="assets/about.svg" width="100%" alt="À propos" />
 
-<br/>
-
-<table>
-<tr>
-<td width="150" valign="top">
-<img src="assets/profile.png" width="130" alt="Emna Kaaniche" />
-</td>
-<td valign="top">
-
-Passionnée par le développement **Full-Stack** et l'**Intelligence Artificielle**, je construis des applications de bout en bout et je les enrichis avec de l'IA — RAG, LLMs, orchestration multi-agents. Un double parcours en systèmes d'information puis en ingénierie informatique m'a appris à traiter un problème technique à la fois comme une architecture à construire et comme une décision à justifier.
-
-En ce moment : stage d'été sur un pipeline RAG multi-agents d'automatisation de tickets support. À suivre : un stage de fin d'études (PFE), en recherche ou en industrie — Full-Stack, IA ou ingénierie logicielle.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="assets/node.svg" width="22" valign="middle" /> **Projets**
-
+<img src="assets/label-projects.svg" width="100%" alt="Projets" />
 <table>
 <tr>
 <td width="50%">
@@ -48,29 +29,36 @@ En ce moment : stage d'été sur un pipeline RAG multi-agents d'automatisation d
 </tr>
 </table>
 
-<br/>
+<img src="assets/skills.svg" width="100%" alt="Compétences" />
 
-<img src="assets/node.svg" width="22" valign="middle" /> **Compétences**
+<img src="assets/label-stats.svg" width="100%" alt="Statistiques" />
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=emna-kaaniche2003&show_icons=true&hide_border=true&bg_color=12161F&title_color=C9924F&icon_color=C9924F&text_color=EDEAE2&border_color=2B3342" width="100%" alt="Statistiques GitHub" />
+</td>
+<td width="50%">
+<img src="https://streak-stats.demolab.com/?user=emna-kaaniche2003&hide_border=true&background=12161F&border=2B3342&ring=C9924F&fire=C9924F&currStreakLabel=EDEAE2&sideLabels=EDEAE2&dates=9B9890&stroke=12161F" width="100%" alt="Streak GitHub" />
+</td>
+</tr>
+</table>
 
-<img src="assets/skills.svg" width="100%" alt="Stack technique" />
+<table>
+<tr>
+<td>
 
-<br/>
+[![LinkedIn](assets/contact-linkedin.svg)](https://www.linkedin.com/in/kaaniche-emna/)
 
-<img src="assets/node.svg" width="22" valign="middle" /> **Statistiques**
+</td>
+<td>
 
-<div align="center">
+[![Email](assets/contact-email.svg)](mailto:emna.kaaniche@enis.tn)
 
-<img src="https://github-readme-stats.vercel.app/api?username=emna-kaaniche2003&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=223A5E&icon_color=A9673D&text_color=1B1B1D&border_color=CFC9BC" alt="Statistiques GitHub" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=emna-kaaniche2003&hide_border=true&background=FFFFFF&border=CFC9BC&ring=A9673D&fire=A9673D&currStreakLabel=223A5E&sideLabels=1B1B1D&dates=6E6A64&stroke=FFFFFF" alt="Streak GitHub" width="48%" />
+</td>
+<td>
 
-</div>
+[![GitHub](assets/contact-github.svg)](https://github.com/emna-kaaniche2003)
 
-<br/>
-
-<img src="assets/node.svg" width="22" valign="middle" /> **Contact**
-
-<p>
-<a href="https://www.linkedin.com/in/kaaniche-emna/">LinkedIn</a> &nbsp;·&nbsp;
-<a href="mailto:emna.kaaniche@enis.tn">emna.kaaniche@enis.tn</a> &nbsp;·&nbsp;
-<a href="https://github.com/emna-kaaniche2003">GitHub</a>
-</p>
+</td>
+</tr>
+</table>
