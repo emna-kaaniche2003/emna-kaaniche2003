@@ -15,8 +15,8 @@
 
 <img src="assets/title-stats.svg" width="100%" alt="Statistiques" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=emna-kaaniche2003&show_icons=true&bg_color=FFFFFF&title_color=0B5563&icon_color=14808F&text_color=1F2933&border_color=D5E2E5" width="49%" alt="Statistiques GitHub" />
-<img src="https://streak-stats.demolab.com/?user=emna-kaaniche2003&background=FFFFFF&border=D5E2E5&ring=0B5563&fire=14808F&currStreakNum=1F2933&sideNums=1F2933&currStreakLabel=0B5563&sideLabels=5F6B76&dates=5F6B76" width="49%" alt="Streak GitHub" />
+<img src="https://github-readme-stats.vercel.app/api?username=emna-kaaniche2003&show_icons=true&bg_color=FFFFFF&title_color=0A4D68&icon_color=088395&text_color=16212B&border_color=DCE8EC" width="49%" alt="Statistiques GitHub" />
+<img src="https://streak-stats.demolab.com/?user=emna-kaaniche2003&background=FFFFFF&border=DCE8EC&ring=0A4D68&fire=F5A623&currStreakNum=16212B&sideNums=16212B&currStreakLabel=0A4D68&sideLabels=5B6B77&dates=5B6B77" width="49%" alt="Streak GitHub" />
 
 <img src="assets/title-contact.svg" width="100%" alt="Contact" />
 
