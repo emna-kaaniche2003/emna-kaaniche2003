@@ -1,4 +1,6 @@
-<p align="center"><sub><a href="README.md">🇫🇷 Français</a> · 🇬🇧 English</sub></p>
+<!-- toggle:start -->
+<p align="right"><a href="README.md" title="Français"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/lang-fr-off-dark.svg"><img src="assets/ui/lang-fr-off.svg" width="44" height="46" alt="Français"/></picture></a><a href="#" title="English"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/lang-en-on-dark.svg"><img src="assets/ui/lang-en-on.svg" width="44" height="46" alt="English"/></picture></a>&nbsp;&nbsp;&nbsp;<a href="views/en-light.md" title="Light mode"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/theme-sun-off-dark.svg"><img src="assets/ui/theme-sun-on.svg" width="44" height="46" alt="Light mode"/></picture></a><a href="views/en-dark.md" title="Dark mode"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/theme-moon-on-dark.svg"><img src="assets/ui/theme-moon-off.svg" width="44" height="46" alt="Dark mode"/></picture></a></p>
+<!-- toggle:end -->
 
 <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/banner-dark.svg"><img src="assets/en/banner.svg" width="100%" alt="Emna Kaaniche — Computer Engineering · Full-Stack & AI"/></picture></a>
 

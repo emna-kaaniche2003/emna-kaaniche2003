@@ -9,8 +9,8 @@
 <rect x="32" y="36" width="137" height="26" rx="13" fill="url(#g)"/>
 <text x="101" y="53" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="bold" fill="#fff" text-anchor="middle">Multi-agent · BDD</text>
 <text x="32" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#1B1530">VORTEX</text>
-<text x="32" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#6B6485">Multi-agent BDD test automation system, from</text>
-<text x="32" y="142" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#6B6485">scenario generation to coverage measurement.</text>
+<text x="32" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#6B6485">A multi-agent system that automates BDD testing,</text>
+<text x="32" y="142" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#6B6485">from generating scenarios to measuring coverage.</text>
 <rect x="32" y="164" width="78" height="23" rx="11.5" fill="#F3EFFF" stroke="#E2D9FF"/>
 <text x="71" y="179.5" font-family="Consolas, 'SF Mono', Menlo, 'Courier New', monospace" font-size="11" font-weight="bold" fill="#2A1766" text-anchor="middle">LangGraph</text>
 <rect x="116" y="164" width="47" height="23" rx="11.5" fill="#F3EFFF" stroke="#E2D9FF"/>

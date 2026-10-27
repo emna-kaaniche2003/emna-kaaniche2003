@@ -9,9 +9,9 @@
 <rect x="32" y="36" width="123" height="26" rx="13" fill="url(#g)"/>
 <text x="94" y="53" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="bold" fill="#fff" text-anchor="middle">Machine Learning</text>
 <text x="32" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#F0EBFF">Retail Intelligence</text>
-<text x="32" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#A8A1C2">Modelling and analysis of sales data for a retail</text>
-<text x="32" y="142" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#A8A1C2">use case, from data cleaning to the first</text>
-<text x="32" y="162" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#A8A1C2">predictive models.</text>
+<text x="32" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#A8A1C2">From raw sales data to first predictive models:</text>
+<text x="32" y="142" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#A8A1C2">cleaning, analysis and modeling for a retail</text>
+<text x="32" y="162" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#A8A1C2">use case.</text>
 <line x1="32" y1="230" x2="408" y2="230" stroke="#30363D"/>
 <text x="32" y="255" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="bold" fill="#A78BFA">View repository</text>
 <circle class="pg" cx="394" cy="250" r="14" fill="none" stroke="#A78BFA" stroke-width="1.6"/>

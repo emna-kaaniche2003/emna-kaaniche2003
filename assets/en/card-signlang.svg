@@ -9,9 +9,9 @@
 <rect x="32" y="36" width="117" height="26" rx="13" fill="url(#g)"/>
 <text x="90" y="53" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="bold" fill="#fff" text-anchor="middle">Computer Vision</text>
 <text x="32" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#1B1530">Sign Language Recognition</text>
-<text x="32" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#6B6485">Sign language recognition system using computer</text>
-<text x="32" y="142" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#6B6485">vision, from image acquisition to</text>
-<text x="32" y="162" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#6B6485">classification.</text>
+<text x="32" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#6B6485">A computer-vision system that recognizes</text>
+<text x="32" y="142" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#6B6485">sign language, from image capture</text>
+<text x="32" y="162" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#6B6485">to classification.</text>
 <line x1="32" y1="230" x2="408" y2="230" stroke="#E4DEF5"/>
 <text x="32" y="255" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="bold" fill="#5B34D9">View repository</text>
 <circle class="pg" cx="394" cy="250" r="14" fill="none" stroke="#5B34D9" stroke-width="1.6"/>

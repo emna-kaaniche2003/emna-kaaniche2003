@@ -9,9 +9,9 @@
 <rect x="32" y="36" width="126" height="26" rx="13" fill="url(#g)"/>
 <text x="95" y="53" font-family="Helvetica, Arial, sans-serif" font-size="11.5" font-weight="bold" fill="#fff" text-anchor="middle">RAG · Production</text>
 <text x="32" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#1B1530">Intelligent Support Assistant</text>
-<text x="32" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#6B6485">Multi-agent support-ticket automation pipeline:</text>
-<text x="32" y="142" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#6B6485">simple cases are answered automatically via RAG</text>
-<text x="32" y="162" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#6B6485">over resolved ticket history.</text>
+<text x="32" y="122" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#6B6485">A multi-agent pipeline that automates support</text>
+<text x="32" y="142" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#6B6485">tickets: simple cases get an automatic answer</text>
+<text x="32" y="162" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#6B6485">via RAG over previously resolved tickets.</text>
 <rect x="32" y="184" width="82" height="23" rx="11.5" fill="#F3EFFF" stroke="#E2D9FF"/>
 <text x="73" y="199.5" font-family="Consolas, 'SF Mono', Menlo, 'Courier New', monospace" font-size="11" font-weight="bold" fill="#2A1766" text-anchor="middle">Google ADK</text>
 <rect x="120" y="184" width="55" height="23" rx="11.5" fill="#F3EFFF" stroke="#E2D9FF"/>
